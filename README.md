@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-### :woman_technologist: Обо мне :
-Интересуюсь созданием образовательных ресурсов по шахматам.
+### 👨 Обо мне :
+Интересуюсь созданием образовательных ресурсов.
 ### :hammer_and_wrench: Языки и инструменты :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
