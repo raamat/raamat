@@ -7,7 +7,7 @@
 
 ## 💻 Технологии
 <div>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
+  <a href="https://www.w3.org/TR/CSS/#css" target="blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
   </a>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
